@@ -1,7 +1,7 @@
 name: Shore House Team
 favicon: null
-layout_spectrum: 0.2912750383839011
-typography_spectrum: 0.7261653463356197
+layout_spectrum: 0.99721
+typography_spectrum: 0.75372
 title: New Jersey Realtors at the Shore
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.02954025170765817
+    - '#dbd2d5'
+    - '#6c081a'
+    - '#220205'
+    - '#ce163b'
+    - '#665657'
+  brandStrength: 0.3125
   lightness: 0.726634660968557
   saturation: 0.6000848112162203
   rhythmicContrast: 0.5082467428874224
